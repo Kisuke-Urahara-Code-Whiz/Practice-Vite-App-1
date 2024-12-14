@@ -1,0 +1,63 @@
+[
+    {
+      "img": "https://m.media-amazon.com/images/I/71sBtM3Yi5L._SL1360_.jpg",
+      "book": "The Power of Subconscious Mind",
+      "author": "John Murph",
+      "price": "100"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81F90H7hnML._SL1500_.jpg",
+      "book": "Atomic Habits",
+      "author": "James Clear",
+      "price": "200"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81Dky+tD+pL._SL1500_.jpg",
+      "book": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "150"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61B84NiWabL._SL1360_.jpg",
+      "book": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": "120"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81BE7eeKzAL._SL1500_.jpg",
+      "book": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": "110"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81qgEPE6k1L._SL1500_.jpg",
+      "book": "The 7 Habits of Highly Effective People",
+      "author": "Stephen Covey",
+      "price": "180"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91AfEwKjDgL._SL1500_.jpg",
+      "book": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "price": "130"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61IWQ8EVC5L._SL1360_.jpg",
+      "book": "Grit",
+      "author": "Angela Duckworth",
+      "price": "140"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71t4GuxLCuL._SL1500_.jpg",
+      "book": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "price": "160"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/713ygCSExlL._SL1500_.jpg",
+      "book": "The Almanack of Naval Ravikant",
+      "author": "Naval Ravikant",
+      "price": "170"
+    }
+  ]
+  
